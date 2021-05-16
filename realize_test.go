@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"errors"
-	"github.com/oxequa/realize/realize"
+	"github.com/bellrocktech/realize/realize"
 	"log"
 	"strings"
 	"testing"
